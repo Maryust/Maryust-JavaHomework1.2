@@ -7,7 +7,7 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-https://github.com/Maryust/JavaHomework1.2/issues/1
+https://github.com/Maryust/Maryust-JavaHomework1.2/issues/1#issue-990186384
 
 
 ## Описание процесса тестирования
