@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Валидатор не принимает действующие карты с длиной номера отличной от 16.](https://github.com/Maryust/Maryust-JavaHomework1.2/issues/1#issue-990186384 "Необязательный заголовок ссылки")
+[Существующая карта не принимается к оплате, если ее номер состоит не из 16 символов](https://github.com/Maryust/Maryust-JavaHomework1.2/issues/1#issue-990186384)
 
 ## Описание процесса тестирования
 
@@ -30,7 +30,8 @@
 
 
 В качестве тестовых данных использовались данные:
-https://www.freeformatter.com/credit-card-number-generator-validator.html
+
+Генератор валидных номеров карт [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 | Вариант введенного номера | Необходимость| Ожидаемый результат |
 |:------|:-----|:-----|
