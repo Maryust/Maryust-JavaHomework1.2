@@ -7,13 +7,13 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-https://github.com/Maryust/Maryust-JavaHomework1.2/issues/1#issue-990186384
 
+[Валидатор не принимает действующие карты с длиной номера отличной от 16.](https://github.com/Maryust/Maryust-JavaHomework1.2/issues/1#issue-990186384 "Необязательный заголовок ссылки")
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
-* тестовая документация https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+В процессе тестирования использовались следующие артефакты:
+* [тестовая документация](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 * чек-лист (представлен ниже)
 
 | Номер | Проверка| Ожидаемый результат |
